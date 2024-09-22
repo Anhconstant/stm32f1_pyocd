@@ -1,0 +1,4 @@
+pack:
+  C:/ARM/PACK/Keil.STM32F1xx_DFP.2.4.1.pack
+target_override:
+  stm32f103c8
